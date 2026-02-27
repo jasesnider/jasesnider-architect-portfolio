@@ -1,0 +1,922 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Home page matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="min-h-screen bg-zinc-950 font-sans text-zinc-50"
+  >
+    <main
+      class="mx-auto max-w-7xl px-8 py-20"
+    >
+      <section
+        class="mb-24 max-w-4xl"
+      >
+        <h1
+          class="text-5xl font-bold tracking-tight text-white sm:text-7xl mb-8 leading-[1.1]"
+        >
+          Architecting at the intersection of 
+          <span
+            class="text-blue-500"
+          >
+            Design
+          </span>
+          , 
+          <span
+            class="text-emerald-500"
+          >
+            Engineering
+          </span>
+          , 
+          <span
+            class="text-sky-500"
+          >
+            Cloud
+          </span>
+          , and 
+          <span
+            class="text-amber-500"
+          >
+            AI.
+          </span>
+        </h1>
+        <p
+          class="mt-6 text-xl leading-8 text-zinc-400 max-w-2xl"
+        >
+          I bridge the gap between complex technical architecture and human-centric experience. As a Digital Experience Architect, I specialize in building scalable, high-performance systems powered by Cloud Infrastructure, Machine Learning, and Data Science.
+        </p>
+        <div
+          class="mt-10 flex flex-wrap gap-4"
+        >
+          <div
+            class="flex items-center gap-2 text-sm font-medium text-zinc-500 bg-zinc-900/50 px-4 py-2 rounded-full border border-zinc-800"
+          >
+            <span
+              class="w-2 h-2 rounded-full bg-blue-500 animate-pulse"
+            />
+            UI/UX Strategy
+          </div>
+          <div
+            class="flex items-center gap-2 text-sm font-medium text-zinc-500 bg-zinc-900/50 px-4 py-2 rounded-full border border-zinc-800"
+          >
+            <span
+              class="w-2 h-2 rounded-full bg-emerald-500 animate-pulse"
+            />
+            Full-Stack Engineering
+          </div>
+          <div
+            class="flex items-center gap-2 text-sm font-medium text-zinc-500 bg-zinc-900/50 px-4 py-2 rounded-full border border-zinc-800"
+          >
+            <span
+              class="w-2 h-2 rounded-full bg-sky-500 animate-pulse"
+            />
+            Cloud Architecture
+          </div>
+          <div
+            class="flex items-center gap-2 text-sm font-medium text-zinc-500 bg-zinc-900/50 px-4 py-2 rounded-full border border-zinc-800"
+          >
+            <span
+              class="w-2 h-2 rounded-full bg-amber-500 animate-pulse"
+            />
+            AI, ML & Data Science
+          </div>
+          <div
+            class="flex items-center gap-2 text-sm font-medium text-zinc-500 bg-zinc-900/50 px-4 py-2 rounded-full border border-zinc-800"
+          >
+            <span
+              class="w-2 h-2 rounded-full bg-purple-500 animate-pulse"
+            />
+            System Architecture
+          </div>
+          <div
+            class="flex items-center gap-2 text-sm font-medium text-zinc-500 bg-zinc-900/50 px-4 py-2 rounded-full border border-zinc-800"
+          >
+            <span
+              class="w-2 h-2 rounded-full bg-rose-500 animate-pulse"
+            />
+            DevOps & Platform
+          </div>
+        </div>
+      </section>
+      <section
+        class="mb-32"
+      >
+        <h2
+          class="text-2xl font-semibold mb-12 text-white border-l-4 border-zinc-500 pl-4"
+        >
+          Core Capabilities
+        </h2>
+        <div
+          class="grid grid-cols-1 md:grid-cols-2 gap-6"
+          style="opacity: 0;"
+        >
+          <div
+            class="p-8 rounded-3xl border border-blue-500/20 bg-blue-500/10 hover:bg-zinc-900/40 transition-colors duration-300"
+            style="opacity: 0; filter: blur(10px); transform: scale(0.95);"
+          >
+            <h3
+              class="text-xl font-bold text-blue-400 mb-3"
+            >
+              Creative Direction & Design
+            </h3>
+            <p
+              class="text-zinc-400 mb-8 leading-relaxed"
+            >
+              Blending traditional artistry with modern digital precision.
+            </p>
+            <div
+              class="flex flex-wrap gap-2"
+            >
+              <span
+                class="px-3 py-1 rounded-full bg-zinc-950/50 border border-zinc-800 text-xs font-medium text-zinc-300 shadow-sm"
+              >
+                Figma
+              </span>
+              <span
+                class="px-3 py-1 rounded-full bg-zinc-950/50 border border-zinc-800 text-xs font-medium text-zinc-300 shadow-sm"
+              >
+                Adobe Creative Cloud
+              </span>
+              <span
+                class="px-3 py-1 rounded-full bg-zinc-950/50 border border-zinc-800 text-xs font-medium text-zinc-300 shadow-sm"
+              >
+                3D Modeling
+              </span>
+              <span
+                class="px-3 py-1 rounded-full bg-zinc-950/50 border border-zinc-800 text-xs font-medium text-zinc-300 shadow-sm"
+              >
+                Blender
+              </span>
+              <span
+                class="px-3 py-1 rounded-full bg-zinc-950/50 border border-zinc-800 text-xs font-medium text-zinc-300 shadow-sm"
+              >
+                Design Systems
+              </span>
+              <span
+                class="px-3 py-1 rounded-full bg-zinc-950/50 border border-zinc-800 text-xs font-medium text-zinc-300 shadow-sm"
+              >
+                Procreate
+              </span>
+            </div>
+          </div>
+          <div
+            class="p-8 rounded-3xl border border-sky-500/20 bg-sky-500/10 hover:bg-zinc-900/40 transition-colors duration-300"
+            style="opacity: 0; filter: blur(10px); transform: scale(0.95);"
+          >
+            <h3
+              class="text-xl font-bold text-sky-400 mb-3"
+            >
+              Cloud & Infrastructure
+            </h3>
+            <p
+              class="text-zinc-400 mb-8 leading-relaxed"
+            >
+              Architecting resilient, distributed systems for global scale.
+            </p>
+            <div
+              class="flex flex-wrap gap-2"
+            >
+              <span
+                class="px-3 py-1 rounded-full bg-zinc-950/50 border border-zinc-800 text-xs font-medium text-zinc-300 shadow-sm"
+              >
+                AWS
+              </span>
+              <span
+                class="px-3 py-1 rounded-full bg-zinc-950/50 border border-zinc-800 text-xs font-medium text-zinc-300 shadow-sm"
+              >
+                Azure
+              </span>
+              <span
+                class="px-3 py-1 rounded-full bg-zinc-950/50 border border-zinc-800 text-xs font-medium text-zinc-300 shadow-sm"
+              >
+                Google Cloud
+              </span>
+              <span
+                class="px-3 py-1 rounded-full bg-zinc-950/50 border border-zinc-800 text-xs font-medium text-zinc-300 shadow-sm"
+              >
+                IBM Cloud
+              </span>
+              <span
+                class="px-3 py-1 rounded-full bg-zinc-950/50 border border-zinc-800 text-xs font-medium text-zinc-300 shadow-sm"
+              >
+                Docker
+              </span>
+              <span
+                class="px-3 py-1 rounded-full bg-zinc-950/50 border border-zinc-800 text-xs font-medium text-zinc-300 shadow-sm"
+              >
+                Kubernetes
+              </span>
+              <span
+                class="px-3 py-1 rounded-full bg-zinc-950/50 border border-zinc-800 text-xs font-medium text-zinc-300 shadow-sm"
+              >
+                Netlify
+              </span>
+            </div>
+          </div>
+          <div
+            class="p-8 rounded-3xl border border-emerald-500/20 bg-emerald-500/10 hover:bg-zinc-900/40 transition-colors duration-300"
+            style="opacity: 0; filter: blur(10px); transform: scale(0.95);"
+          >
+            <h3
+              class="text-xl font-bold text-emerald-400 mb-3"
+            >
+              Full-Stack Architecture
+            </h3>
+            <p
+              class="text-zinc-400 mb-8 leading-relaxed"
+            >
+              Building robust, scalable foundations for modern applications.
+            </p>
+            <div
+              class="flex flex-wrap gap-2"
+            >
+              <span
+                class="px-3 py-1 rounded-full bg-zinc-950/50 border border-zinc-800 text-xs font-medium text-zinc-300 shadow-sm"
+              >
+                NextJS
+              </span>
+              <span
+                class="px-3 py-1 rounded-full bg-zinc-950/50 border border-zinc-800 text-xs font-medium text-zinc-300 shadow-sm"
+              >
+                React
+              </span>
+              <span
+                class="px-3 py-1 rounded-full bg-zinc-950/50 border border-zinc-800 text-xs font-medium text-zinc-300 shadow-sm"
+              >
+                Node.js
+              </span>
+              <span
+                class="px-3 py-1 rounded-full bg-zinc-950/50 border border-zinc-800 text-xs font-medium text-zinc-300 shadow-sm"
+              >
+                TypeScript
+              </span>
+              <span
+                class="px-3 py-1 rounded-full bg-zinc-950/50 border border-zinc-800 text-xs font-medium text-zinc-300 shadow-sm"
+              >
+                Python
+              </span>
+              <span
+                class="px-3 py-1 rounded-full bg-zinc-950/50 border border-zinc-800 text-xs font-medium text-zinc-300 shadow-sm"
+              >
+                GraphQL
+              </span>
+              <span
+                class="px-3 py-1 rounded-full bg-zinc-950/50 border border-zinc-800 text-xs font-medium text-zinc-300 shadow-sm"
+              >
+                PostgreSQL
+              </span>
+            </div>
+          </div>
+          <div
+            class="p-8 rounded-3xl border border-amber-500/20 bg-amber-500/10 hover:bg-zinc-900/40 transition-colors duration-300"
+            style="opacity: 0; filter: blur(10px); transform: scale(0.95);"
+          >
+            <h3
+              class="text-xl font-bold text-amber-400 mb-3"
+            >
+              Emerging Tech & AI
+            </h3>
+            <p
+              class="text-zinc-400 mb-8 leading-relaxed"
+            >
+              Harnessing the power of AI to accelerate innovation.
+            </p>
+            <div
+              class="flex flex-wrap gap-2"
+            >
+              <span
+                class="px-3 py-1 rounded-full bg-zinc-950/50 border border-zinc-800 text-xs font-medium text-zinc-300 shadow-sm"
+              >
+                OpenAI API
+              </span>
+              <span
+                class="px-3 py-1 rounded-full bg-zinc-950/50 border border-zinc-800 text-xs font-medium text-zinc-300 shadow-sm"
+              >
+                Claude
+              </span>
+              <span
+                class="px-3 py-1 rounded-full bg-zinc-950/50 border border-zinc-800 text-xs font-medium text-zinc-300 shadow-sm"
+              >
+                Gemini
+              </span>
+              <span
+                class="px-3 py-1 rounded-full bg-zinc-950/50 border border-zinc-800 text-xs font-medium text-zinc-300 shadow-sm"
+              >
+                PyTorch
+              </span>
+              <span
+                class="px-3 py-1 rounded-full bg-zinc-950/50 border border-zinc-800 text-xs font-medium text-zinc-300 shadow-sm"
+              >
+                MLOps
+              </span>
+              <span
+                class="px-3 py-1 rounded-full bg-zinc-950/50 border border-zinc-800 text-xs font-medium text-zinc-300 shadow-sm"
+              >
+                Prompt Engineering
+              </span>
+            </div>
+          </div>
+        </div>
+        <div
+          class="mt-12 text-center"
+        >
+          <p
+            class="text-zinc-500 text-sm italic"
+          >
+            + Expert proficiency in over 50+ additional tools, languages, and frameworks including Advanced Engineering (WebAssembly, C++), Testing (Cypress, Vitest), and Databases.
+          </p>
+        </div>
+      </section>
+      <section
+        class="mb-32"
+      >
+        <h2
+          class="text-2xl font-semibold mb-12 text-white border-l-4 border-blue-600 pl-4"
+        >
+          Selected Projects
+        </h2>
+        <div
+          class="grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-3"
+          style="opacity: 0;"
+        >
+          <button
+            class="group relative flex flex-col items-start overflow-hidden rounded-2xl bg-zinc-900 p-8 shadow-sm transition-all duration-300 hover:shadow-2xl hover:bg-gradient-to-br hover:from-blue-600 hover:via-purple-600 hover:to-pink-600 hover:animate-gradient-xy text-left border border-zinc-800 hover:border-transparent cursor-pointer"
+            style="opacity: 0; filter: blur(10px); transform: translateY(20px);"
+            type="button"
+          >
+            <div
+              class="mb-4 text-xs font-bold uppercase tracking-widest text-zinc-500 group-hover:text-white/70"
+            >
+              Project
+            </div>
+            <h3
+              class="text-2xl font-bold text-white group-hover:scale-105 transition-transform duration-300"
+            >
+              Alienware
+            </h3>
+            <p
+              class="mt-4 text-zinc-400 group-hover:text-white/90 transition-colors duration-300"
+            >
+              High-performance gaming systems design and identity.
+            </p>
+            <div
+              class="mt-auto pt-8 font-medium text-white opacity-0 group-hover:opacity-100 transition-opacity duration-300"
+            >
+              View Details →
+            </div>
+          </button>
+          <button
+            class="group relative flex flex-col items-start overflow-hidden rounded-2xl bg-zinc-900 p-8 shadow-sm transition-all duration-300 hover:shadow-2xl hover:bg-gradient-to-br hover:from-blue-400 hover:via-cyan-400 hover:to-blue-600 hover:animate-gradient-xy text-left border border-zinc-800 hover:border-transparent cursor-pointer"
+            style="opacity: 0; filter: blur(10px); transform: translateY(20px);"
+            type="button"
+          >
+            <div
+              class="mb-4 text-xs font-bold uppercase tracking-widest text-zinc-500 group-hover:text-white/70"
+            >
+              Project
+            </div>
+            <h3
+              class="text-2xl font-bold text-white group-hover:scale-105 transition-transform duration-300"
+            >
+              Dell
+            </h3>
+            <p
+              class="mt-4 text-zinc-400 group-hover:text-white/90 transition-colors duration-300"
+            >
+              Enterprise solutions and consumer electronics design.
+            </p>
+            <div
+              class="mt-auto pt-8 font-medium text-white opacity-0 group-hover:opacity-100 transition-opacity duration-300"
+            >
+              View Details →
+            </div>
+          </button>
+          <button
+            class="group relative flex flex-col items-start overflow-hidden rounded-2xl bg-zinc-900 p-8 shadow-sm transition-all duration-300 hover:shadow-2xl hover:bg-gradient-to-br hover:from-blue-800 hover:via-indigo-900 hover:to-purple-900 hover:animate-gradient-xy text-left border border-zinc-800 hover:border-transparent cursor-pointer"
+            style="opacity: 0; filter: blur(10px); transform: translateY(20px);"
+            type="button"
+          >
+            <div
+              class="mb-4 text-xs font-bold uppercase tracking-widest text-zinc-500 group-hover:text-white/70"
+            >
+              Project
+            </div>
+            <h3
+              class="text-2xl font-bold text-white group-hover:scale-105 transition-transform duration-300"
+            >
+              IBM
+            </h3>
+            <p
+              class="mt-4 text-zinc-400 group-hover:text-white/90 transition-colors duration-300"
+            >
+              Cloud computing and AI infrastructure visualization.
+            </p>
+            <div
+              class="mt-auto pt-8 font-medium text-white opacity-0 group-hover:opacity-100 transition-opacity duration-300"
+            >
+              View Details →
+            </div>
+          </button>
+          <button
+            class="group relative flex flex-col items-start overflow-hidden rounded-2xl bg-zinc-900 p-8 shadow-sm transition-all duration-300 hover:shadow-2xl hover:bg-gradient-to-br hover:from-slate-700 hover:via-zinc-800 hover:to-slate-900 hover:animate-gradient-xy text-left border border-zinc-800 hover:border-transparent cursor-pointer"
+            style="opacity: 0; filter: blur(10px); transform: translateY(20px);"
+            type="button"
+          >
+            <div
+              class="mb-4 text-xs font-bold uppercase tracking-widest text-zinc-500 group-hover:text-white/70"
+            >
+              Project
+            </div>
+            <h3
+              class="text-2xl font-bold text-white group-hover:scale-105 transition-transform duration-300"
+            >
+              Air Force
+            </h3>
+            <p
+              class="mt-4 text-zinc-400 group-hover:text-white/90 transition-colors duration-300"
+            >
+              Mission-critical tactical interface systems.
+            </p>
+            <div
+              class="mt-auto pt-8 font-medium text-white opacity-0 group-hover:opacity-100 transition-opacity duration-300"
+            >
+              View Details →
+            </div>
+          </button>
+          <button
+            class="group relative flex flex-col items-start overflow-hidden rounded-2xl bg-zinc-900 p-8 shadow-sm transition-all duration-300 hover:shadow-2xl hover:bg-gradient-to-br hover:from-green-700 hover:via-emerald-800 hover:to-teal-900 hover:animate-gradient-xy text-left border border-zinc-800 hover:border-transparent cursor-pointer"
+            style="opacity: 0; filter: blur(10px); transform: translateY(20px);"
+            type="button"
+          >
+            <div
+              class="mb-4 text-xs font-bold uppercase tracking-widest text-zinc-500 group-hover:text-white/70"
+            >
+              Project
+            </div>
+            <h3
+              class="text-2xl font-bold text-white group-hover:scale-105 transition-transform duration-300"
+            >
+              Army
+            </h3>
+            <p
+              class="mt-4 text-zinc-400 group-hover:text-white/90 transition-colors duration-300"
+            >
+              Logistics and operational management platforms.
+            </p>
+            <div
+              class="mt-auto pt-8 font-medium text-white opacity-0 group-hover:opacity-100 transition-opacity duration-300"
+            >
+              View Details →
+            </div>
+          </button>
+          <button
+            class="group relative flex flex-col items-start overflow-hidden rounded-2xl bg-zinc-900 p-8 shadow-sm transition-all duration-300 hover:shadow-2xl hover:bg-gradient-to-br hover:from-amber-600 hover:via-orange-700 hover:to-red-700 hover:animate-gradient-xy text-left border border-zinc-800 hover:border-transparent cursor-pointer"
+            style="opacity: 0; filter: blur(10px); transform: translateY(20px);"
+            type="button"
+          >
+            <div
+              class="mb-4 text-xs font-bold uppercase tracking-widest text-zinc-500 group-hover:text-white/70"
+            >
+              Project
+            </div>
+            <h3
+              class="text-2xl font-bold text-white group-hover:scale-105 transition-transform duration-300"
+            >
+              Integreon
+            </h3>
+            <p
+              class="mt-4 text-zinc-400 group-hover:text-white/90 transition-colors duration-300"
+            >
+              Legal and business services digital transformation.
+            </p>
+            <div
+              class="mt-auto pt-8 font-medium text-white opacity-0 group-hover:opacity-100 transition-opacity duration-300"
+            >
+              View Details →
+            </div>
+          </button>
+        </div>
+      </section>
+      <section
+        class="mb-32"
+      >
+        <h2
+          class="text-2xl font-semibold mb-12 text-white border-l-4 border-purple-600 pl-4"
+        >
+          Education
+        </h2>
+        <div
+          class="grid grid-cols-1 gap-8 sm:grid-cols-2"
+          style="opacity: 0;"
+        >
+          <button
+            class="flex items-center gap-6 rounded-2xl bg-zinc-900/50 p-6 border border-zinc-800 transition-all hover:bg-zinc-900 hover:border-purple-500/50 cursor-pointer text-left w-full"
+            style="opacity: 0; filter: blur(10px); transform: translateY(20px);"
+          >
+            <div
+              class="flex h-16 w-16 shrink-0 items-center justify-center rounded-xl bg-white p-2"
+            >
+              <img
+                alt="Texas Tech University logo"
+                class="h-full w-full object-contain"
+                src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Texas_Tech_Athletics_logo.svg"
+              />
+            </div>
+            <div>
+              <h3
+                class="text-xl font-bold text-white"
+              >
+                Texas Tech University
+              </h3>
+              <p
+                class="text-zinc-400"
+              >
+                Bachelor of Fine Arts, Graphic Design
+              </p>
+            </div>
+          </button>
+          <button
+            class="flex items-center gap-6 rounded-2xl bg-zinc-900/50 p-6 border border-zinc-800 transition-all hover:bg-zinc-900 hover:border-purple-500/50 cursor-pointer text-left w-full"
+            style="opacity: 0; filter: blur(10px); transform: translateY(20px);"
+          >
+            <div
+              class="flex h-16 w-16 shrink-0 items-center justify-center rounded-xl bg-white p-2"
+            >
+              <img
+                alt="Cornell University logo"
+                class="h-full w-full object-contain"
+                src="https://upload.wikimedia.org/wikipedia/commons/4/47/Cornell_University_logo.svg"
+              />
+            </div>
+            <div>
+              <h3
+                class="text-xl font-bold text-white"
+              >
+                Cornell University
+              </h3>
+              <p
+                class="text-zinc-400"
+              >
+                Master of Professional Studies, Information Science
+              </p>
+            </div>
+          </button>
+          <button
+            class="flex items-center gap-6 rounded-2xl bg-zinc-900/50 p-6 border border-zinc-800 transition-all hover:bg-zinc-900 hover:border-purple-500/50 cursor-pointer text-left w-full"
+            style="opacity: 0; filter: blur(10px); transform: translateY(20px);"
+          >
+            <div
+              class="flex h-16 w-16 shrink-0 items-center justify-center rounded-xl bg-white p-2"
+            >
+              <img
+                alt="Hardin-Simmons University logo"
+                class="h-full w-full object-contain"
+                src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Hardin%E2%80%93Simmons_Cowboys_HSU_wordmark.svg"
+              />
+            </div>
+            <div>
+              <h3
+                class="text-xl font-bold text-white"
+              >
+                Hardin-Simmons University
+              </h3>
+              <p
+                class="text-zinc-400"
+              >
+                Professional Certificate, Digital Communication
+              </p>
+            </div>
+          </button>
+          <button
+            class="flex items-center gap-6 rounded-2xl bg-zinc-900/50 p-6 border border-zinc-800 transition-all hover:bg-zinc-900 hover:border-purple-500/50 cursor-pointer text-left w-full"
+            style="opacity: 0; filter: blur(10px); transform: translateY(20px);"
+          >
+            <div
+              class="flex h-16 w-16 shrink-0 items-center justify-center rounded-xl bg-white p-2"
+            >
+              <img
+                alt="University of Texas logo"
+                class="h-full w-full object-contain"
+                src="https://upload.wikimedia.org/wikipedia/commons/e/e1/University_of_Texas_at_Austin_logo.svg"
+              />
+            </div>
+            <div>
+              <h3
+                class="text-xl font-bold text-white"
+              >
+                University of Texas
+              </h3>
+              <p
+                class="text-zinc-400"
+              >
+                Advanced UX Research Certification
+              </p>
+            </div>
+          </button>
+        </div>
+      </section>
+      <section
+        class="mb-32"
+      >
+        <h2
+          class="text-2xl font-semibold mb-12 text-white border-l-4 border-emerald-600 pl-4"
+        >
+          Professional Experience
+        </h2>
+        <div
+          class="space-y-12"
+          style="opacity: 0;"
+        >
+          <div
+            class="relative pl-8 before:absolute before:left-0 before:top-2 before:h-full before:w-px before:bg-zinc-800"
+            style="opacity: 0; filter: blur(10px); transform: translateX(-20px);"
+          >
+            <div
+              class="absolute left-[-4px] top-2 h-2 w-2 rounded-full bg-emerald-600 shadow-[0_0_10px_rgba(16,185,129,0.5)]"
+            />
+            <div
+              class="flex flex-col gap-1 sm:flex-row sm:items-baseline sm:justify-between"
+            >
+              <h3
+                class="text-xl font-bold text-white"
+              >
+                AI Acceleration
+              </h3>
+              <span
+                class="text-sm font-medium text-emerald-500 uppercase tracking-wider"
+              >
+                Present
+              </span>
+            </div>
+            <div
+              class="text-lg font-medium text-zinc-300 mb-4"
+            >
+              Dell Technologies
+            </div>
+            <p
+              class="text-zinc-400 leading-relaxed max-w-3xl"
+            >
+              Zeus AI/ML Ops & AI Agents. Leading the acceleration of AI/ML operations and the development of specialized AI agents to drive enterprise-wide innovation.
+            </p>
+          </div>
+          <div
+            class="relative pl-8 before:absolute before:left-0 before:top-2 before:h-full before:w-px before:bg-zinc-800"
+            style="opacity: 0; filter: blur(10px); transform: translateX(-20px);"
+          >
+            <div
+              class="absolute left-[-4px] top-2 h-2 w-2 rounded-full bg-emerald-600 shadow-[0_0_10px_rgba(16,185,129,0.5)]"
+            />
+            <div
+              class="flex flex-col gap-1 sm:flex-row sm:items-baseline sm:justify-between"
+            >
+              <h3
+                class="text-xl font-bold text-white"
+              >
+                Featured Work
+              </h3>
+              <span
+                class="text-sm font-medium text-emerald-500 uppercase tracking-wider"
+              >
+                Featured
+              </span>
+            </div>
+            <div
+              class="text-lg font-medium text-zinc-300 mb-4"
+            >
+              Alienware
+            </div>
+            <p
+              class="text-zinc-400 leading-relaxed max-w-3xl"
+            >
+              Design and strategy for Alienware.com, focusing on high-performance gaming identity and consumer experience.
+            </p>
+          </div>
+          <div
+            class="relative pl-8 before:absolute before:left-0 before:top-2 before:h-full before:w-px before:bg-zinc-800"
+            style="opacity: 0; filter: blur(10px); transform: translateX(-20px);"
+          >
+            <div
+              class="absolute left-[-4px] top-2 h-2 w-2 rounded-full bg-emerald-600 shadow-[0_0_10px_rgba(16,185,129,0.5)]"
+            />
+            <div
+              class="flex flex-col gap-1 sm:flex-row sm:items-baseline sm:justify-between"
+            >
+              <h3
+                class="text-xl font-bold text-white"
+              >
+                Masthead and Franchise Teams
+              </h3>
+              <span
+                class="text-sm font-medium text-emerald-500 uppercase tracking-wider"
+              >
+                Featured
+              </span>
+            </div>
+            <div
+              class="text-lg font-medium text-zinc-300 mb-4"
+            >
+              Dell.com
+            </div>
+            <p
+              class="text-zinc-400 leading-relaxed max-w-3xl"
+            >
+              Strategic design leadership for Dell.com's primary navigation (Masthead) and major Franchise product segments.
+            </p>
+          </div>
+          <div
+            class="relative pl-8 before:absolute before:left-0 before:top-2 before:h-full before:w-px before:bg-zinc-800"
+            style="opacity: 0; filter: blur(10px); transform: translateX(-20px);"
+          >
+            <div
+              class="absolute left-[-4px] top-2 h-2 w-2 rounded-full bg-emerald-600 shadow-[0_0_10px_rgba(16,185,129,0.5)]"
+            />
+            <div
+              class="flex flex-col gap-1 sm:flex-row sm:items-baseline sm:justify-between"
+            >
+              <h3
+                class="text-xl font-bold text-white"
+              >
+                IBM Cloud - VPC
+              </h3>
+              <span
+                class="text-sm font-medium text-emerald-500 uppercase tracking-wider"
+              >
+                Featured
+              </span>
+            </div>
+            <div
+              class="text-lg font-medium text-zinc-300 mb-4"
+            >
+              IBM Cloud
+            </div>
+            <p
+              class="text-zinc-400 leading-relaxed max-w-3xl"
+            >
+              UX Architecture for Virtual Private Cloud (VPC) infrastructure, simplifying complex cloud networking and configuration for enterprise users.
+            </p>
+          </div>
+          <div
+            class="relative pl-8 before:absolute before:left-0 before:top-2 before:h-full before:w-px before:bg-zinc-800"
+            style="opacity: 0; filter: blur(10px); transform: translateX(-20px);"
+          >
+            <div
+              class="absolute left-[-4px] top-2 h-2 w-2 rounded-full bg-emerald-600 shadow-[0_0_10px_rgba(16,185,129,0.5)]"
+            />
+            <div
+              class="flex flex-col gap-1 sm:flex-row sm:items-baseline sm:justify-between"
+            >
+              <h3
+                class="text-xl font-bold text-white"
+              >
+                B-1 Lancer Training Management System
+              </h3>
+              <span
+                class="text-sm font-medium text-emerald-500 uppercase tracking-wider"
+              >
+                Featured
+              </span>
+            </div>
+            <div
+              class="text-lg font-medium text-zinc-300 mb-4"
+            >
+              United States Air Force
+            </div>
+            <p
+              class="text-zinc-400 leading-relaxed max-w-3xl"
+            >
+              Tactical interface design for the B-1 Lancer Training Management System, ensuring mission-critical operational efficiency.
+            </p>
+          </div>
+          <div
+            class="relative pl-8 before:absolute before:left-0 before:top-2 before:h-full before:w-px before:bg-zinc-800"
+            style="opacity: 0; filter: blur(10px); transform: translateX(-20px);"
+          >
+            <div
+              class="absolute left-[-4px] top-2 h-2 w-2 rounded-full bg-emerald-600 shadow-[0_0_10px_rgba(16,185,129,0.5)]"
+            />
+            <div
+              class="flex flex-col gap-1 sm:flex-row sm:items-baseline sm:justify-between"
+            >
+              <h3
+                class="text-xl font-bold text-white"
+              >
+                Allegory Law Litigation Management Platform
+              </h3>
+              <span
+                class="text-sm font-medium text-emerald-500 uppercase tracking-wider"
+              >
+                Featured
+              </span>
+            </div>
+            <div
+              class="text-lg font-medium text-zinc-300 mb-4"
+            >
+              Integreon
+            </div>
+            <p
+              class="text-zinc-400 leading-relaxed max-w-3xl"
+            >
+              Digital transformation for the Allegory Law platform, focusing on comprehensive litigation management and business services.
+            </p>
+          </div>
+          <div
+            class="relative pl-8 before:absolute before:left-0 before:top-2 before:h-full before:w-px before:bg-zinc-800"
+            style="opacity: 0; filter: blur(10px); transform: translateX(-20px);"
+          >
+            <div
+              class="absolute left-[-4px] top-2 h-2 w-2 rounded-full bg-emerald-600 shadow-[0_0_10px_rgba(16,185,129,0.5)]"
+            />
+            <div
+              class="flex flex-col gap-1 sm:flex-row sm:items-baseline sm:justify-between"
+            >
+              <h3
+                class="text-xl font-bold text-white"
+              >
+                Architect and Founding Member
+              </h3>
+              <span
+                class="text-sm font-medium text-emerald-500 uppercase tracking-wider"
+              >
+                Previously
+              </span>
+            </div>
+            <div
+              class="text-lg font-medium text-zinc-300 mb-4"
+            >
+              Dell
+            </div>
+            <p
+              class="text-zinc-400 leading-relaxed max-w-3xl"
+            >
+              Founding member of Dell's Accessibility Center of Excellence. Established architectural standards and design systems for global accessibility compliance.
+            </p>
+          </div>
+          <div
+            class="relative pl-8 before:absolute before:left-0 before:top-2 before:h-full before:w-px before:bg-zinc-800"
+            style="opacity: 0; filter: blur(10px); transform: translateX(-20px);"
+          >
+            <div
+              class="absolute left-[-4px] top-2 h-2 w-2 rounded-full bg-emerald-600 shadow-[0_0_10px_rgba(16,185,129,0.5)]"
+            />
+            <div
+              class="flex flex-col gap-1 sm:flex-row sm:items-baseline sm:justify-between"
+            >
+              <h3
+                class="text-xl font-bold text-white"
+              >
+                Accessibility Lead
+              </h3>
+              <span
+                class="text-sm font-medium text-emerald-500 uppercase tracking-wider"
+              >
+                Previously
+              </span>
+            </div>
+            <div
+              class="text-lg font-medium text-zinc-300 mb-4"
+            >
+              Dell.com
+            </div>
+            <p
+              class="text-zinc-400 leading-relaxed max-w-3xl"
+            >
+              Led and coordinated accessibility remediation solutioning for dell.com and other major assets that spanned nine months.
+            </p>
+          </div>
+          <div
+            class="relative pl-8 before:absolute before:left-0 before:top-2 before:h-full before:w-px before:bg-zinc-800"
+            style="opacity: 0; filter: blur(10px); transform: translateX(-20px);"
+          >
+            <div
+              class="absolute left-[-4px] top-2 h-2 w-2 rounded-full bg-emerald-600 shadow-[0_0_10px_rgba(16,185,129,0.5)]"
+            />
+            <div
+              class="flex flex-col gap-1 sm:flex-row sm:items-baseline sm:justify-between"
+            >
+              <h3
+                class="text-xl font-bold text-white"
+              >
+                Design Lead and UX Architect
+              </h3>
+              <span
+                class="text-sm font-medium text-emerald-500 uppercase tracking-wider"
+              >
+                Career
+              </span>
+            </div>
+            <div
+              class="text-lg font-medium text-zinc-300 mb-4"
+            >
+              Various (Over 10 positions)
+            </div>
+            <p
+              class="text-zinc-400 leading-relaxed max-w-3xl"
+            >
+              Led, mentored, coached and supported dozens of designers, engineers, product managers, stakeholders, leadership and teams in design, engineering and accessibility.
+            </p>
+          </div>
+        </div>
+      </section>
+    </main>
+  </div>
+</DocumentFragment>
+`;

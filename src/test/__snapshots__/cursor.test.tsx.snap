@@ -1,0 +1,14 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`CustomCursor matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="fixed top-0 left-0 w-8 h-8 rounded-full border border-white pointer-events-none z-[9999] mix-blend-difference"
+    style="background-color: transparent; opacity: 0; transform: translateX(-50%) translateY(-50%);"
+  />
+  <div
+    class="fixed top-0 left-0 w-1 h-1 bg-white rounded-full pointer-events-none z-[9999]"
+    style="opacity: 0; transform: translateX(-50%) translateY(-50%);"
+  />
+</DocumentFragment>
+`;

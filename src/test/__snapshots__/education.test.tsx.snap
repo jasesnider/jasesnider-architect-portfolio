@@ -1,0 +1,124 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Education matches snapshot 1`] = `
+<DocumentFragment>
+  <section
+    class="mb-32"
+  >
+    <h2
+      class="text-2xl font-semibold mb-12 text-white border-l-4 border-purple-600 pl-4"
+    >
+      Education
+    </h2>
+    <div
+      class="grid grid-cols-1 gap-8 sm:grid-cols-2"
+      style="opacity: 0;"
+    >
+      <button
+        class="flex items-center gap-6 rounded-2xl bg-zinc-900/50 p-6 border border-zinc-800 transition-all hover:bg-zinc-900 hover:border-purple-500/50 cursor-pointer text-left w-full"
+        style="opacity: 0; filter: blur(10px); transform: translateY(20px);"
+      >
+        <div
+          class="flex h-16 w-16 shrink-0 items-center justify-center rounded-xl bg-white p-2"
+        >
+          <img
+            alt="Texas Tech University logo"
+            class="h-full w-full object-contain"
+            src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Texas_Tech_Athletics_logo.svg"
+          />
+        </div>
+        <div>
+          <h3
+            class="text-xl font-bold text-white"
+          >
+            Texas Tech University
+          </h3>
+          <p
+            class="text-zinc-400"
+          >
+            Bachelor of Fine Arts, Graphic Design
+          </p>
+        </div>
+      </button>
+      <button
+        class="flex items-center gap-6 rounded-2xl bg-zinc-900/50 p-6 border border-zinc-800 transition-all hover:bg-zinc-900 hover:border-purple-500/50 cursor-pointer text-left w-full"
+        style="opacity: 0; filter: blur(10px); transform: translateY(20px);"
+      >
+        <div
+          class="flex h-16 w-16 shrink-0 items-center justify-center rounded-xl bg-white p-2"
+        >
+          <img
+            alt="Cornell University logo"
+            class="h-full w-full object-contain"
+            src="https://upload.wikimedia.org/wikipedia/commons/4/47/Cornell_University_logo.svg"
+          />
+        </div>
+        <div>
+          <h3
+            class="text-xl font-bold text-white"
+          >
+            Cornell University
+          </h3>
+          <p
+            class="text-zinc-400"
+          >
+            Master of Professional Studies, Information Science
+          </p>
+        </div>
+      </button>
+      <button
+        class="flex items-center gap-6 rounded-2xl bg-zinc-900/50 p-6 border border-zinc-800 transition-all hover:bg-zinc-900 hover:border-purple-500/50 cursor-pointer text-left w-full"
+        style="opacity: 0; filter: blur(10px); transform: translateY(20px);"
+      >
+        <div
+          class="flex h-16 w-16 shrink-0 items-center justify-center rounded-xl bg-white p-2"
+        >
+          <img
+            alt="Hardin-Simmons University logo"
+            class="h-full w-full object-contain"
+            src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Hardin%E2%80%93Simmons_Cowboys_HSU_wordmark.svg"
+          />
+        </div>
+        <div>
+          <h3
+            class="text-xl font-bold text-white"
+          >
+            Hardin-Simmons University
+          </h3>
+          <p
+            class="text-zinc-400"
+          >
+            Professional Certificate, Digital Communication
+          </p>
+        </div>
+      </button>
+      <button
+        class="flex items-center gap-6 rounded-2xl bg-zinc-900/50 p-6 border border-zinc-800 transition-all hover:bg-zinc-900 hover:border-purple-500/50 cursor-pointer text-left w-full"
+        style="opacity: 0; filter: blur(10px); transform: translateY(20px);"
+      >
+        <div
+          class="flex h-16 w-16 shrink-0 items-center justify-center rounded-xl bg-white p-2"
+        >
+          <img
+            alt="University of Texas logo"
+            class="h-full w-full object-contain"
+            src="https://upload.wikimedia.org/wikipedia/commons/e/e1/University_of_Texas_at_Austin_logo.svg"
+          />
+        </div>
+        <div>
+          <h3
+            class="text-xl font-bold text-white"
+          >
+            University of Texas
+          </h3>
+          <p
+            class="text-zinc-400"
+          >
+            Advanced UX Research Certification
+          </p>
+        </div>
+      </button>
+    </div>
+  </section>
+</DocumentFragment>
+`;

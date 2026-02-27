@@ -1,0 +1,235 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Capabilities matches snapshot 1`] = `
+<DocumentFragment>
+  <section
+    class="mb-32"
+  >
+    <h2
+      class="text-2xl font-semibold mb-12 text-white border-l-4 border-zinc-500 pl-4"
+    >
+      Core Capabilities
+    </h2>
+    <div
+      class="grid grid-cols-1 md:grid-cols-2 gap-6"
+      style="opacity: 0;"
+    >
+      <div
+        class="p-8 rounded-3xl border border-blue-500/20 bg-blue-500/10 hover:bg-zinc-900/40 transition-colors duration-300"
+        style="opacity: 0; filter: blur(10px); transform: scale(0.95);"
+      >
+        <h3
+          class="text-xl font-bold text-blue-400 mb-3"
+        >
+          Creative Direction & Design
+        </h3>
+        <p
+          class="text-zinc-400 mb-8 leading-relaxed"
+        >
+          Blending traditional artistry with modern digital precision.
+        </p>
+        <div
+          class="flex flex-wrap gap-2"
+        >
+          <span
+            class="px-3 py-1 rounded-full bg-zinc-950/50 border border-zinc-800 text-xs font-medium text-zinc-300 shadow-sm"
+          >
+            Figma
+          </span>
+          <span
+            class="px-3 py-1 rounded-full bg-zinc-950/50 border border-zinc-800 text-xs font-medium text-zinc-300 shadow-sm"
+          >
+            Adobe Creative Cloud
+          </span>
+          <span
+            class="px-3 py-1 rounded-full bg-zinc-950/50 border border-zinc-800 text-xs font-medium text-zinc-300 shadow-sm"
+          >
+            3D Modeling
+          </span>
+          <span
+            class="px-3 py-1 rounded-full bg-zinc-950/50 border border-zinc-800 text-xs font-medium text-zinc-300 shadow-sm"
+          >
+            Blender
+          </span>
+          <span
+            class="px-3 py-1 rounded-full bg-zinc-950/50 border border-zinc-800 text-xs font-medium text-zinc-300 shadow-sm"
+          >
+            Design Systems
+          </span>
+          <span
+            class="px-3 py-1 rounded-full bg-zinc-950/50 border border-zinc-800 text-xs font-medium text-zinc-300 shadow-sm"
+          >
+            Procreate
+          </span>
+        </div>
+      </div>
+      <div
+        class="p-8 rounded-3xl border border-sky-500/20 bg-sky-500/10 hover:bg-zinc-900/40 transition-colors duration-300"
+        style="opacity: 0; filter: blur(10px); transform: scale(0.95);"
+      >
+        <h3
+          class="text-xl font-bold text-sky-400 mb-3"
+        >
+          Cloud & Infrastructure
+        </h3>
+        <p
+          class="text-zinc-400 mb-8 leading-relaxed"
+        >
+          Architecting resilient, distributed systems for global scale.
+        </p>
+        <div
+          class="flex flex-wrap gap-2"
+        >
+          <span
+            class="px-3 py-1 rounded-full bg-zinc-950/50 border border-zinc-800 text-xs font-medium text-zinc-300 shadow-sm"
+          >
+            AWS
+          </span>
+          <span
+            class="px-3 py-1 rounded-full bg-zinc-950/50 border border-zinc-800 text-xs font-medium text-zinc-300 shadow-sm"
+          >
+            Azure
+          </span>
+          <span
+            class="px-3 py-1 rounded-full bg-zinc-950/50 border border-zinc-800 text-xs font-medium text-zinc-300 shadow-sm"
+          >
+            Google Cloud
+          </span>
+          <span
+            class="px-3 py-1 rounded-full bg-zinc-950/50 border border-zinc-800 text-xs font-medium text-zinc-300 shadow-sm"
+          >
+            IBM Cloud
+          </span>
+          <span
+            class="px-3 py-1 rounded-full bg-zinc-950/50 border border-zinc-800 text-xs font-medium text-zinc-300 shadow-sm"
+          >
+            Docker
+          </span>
+          <span
+            class="px-3 py-1 rounded-full bg-zinc-950/50 border border-zinc-800 text-xs font-medium text-zinc-300 shadow-sm"
+          >
+            Kubernetes
+          </span>
+          <span
+            class="px-3 py-1 rounded-full bg-zinc-950/50 border border-zinc-800 text-xs font-medium text-zinc-300 shadow-sm"
+          >
+            Netlify
+          </span>
+        </div>
+      </div>
+      <div
+        class="p-8 rounded-3xl border border-emerald-500/20 bg-emerald-500/10 hover:bg-zinc-900/40 transition-colors duration-300"
+        style="opacity: 0; filter: blur(10px); transform: scale(0.95);"
+      >
+        <h3
+          class="text-xl font-bold text-emerald-400 mb-3"
+        >
+          Full-Stack Architecture
+        </h3>
+        <p
+          class="text-zinc-400 mb-8 leading-relaxed"
+        >
+          Building robust, scalable foundations for modern applications.
+        </p>
+        <div
+          class="flex flex-wrap gap-2"
+        >
+          <span
+            class="px-3 py-1 rounded-full bg-zinc-950/50 border border-zinc-800 text-xs font-medium text-zinc-300 shadow-sm"
+          >
+            NextJS
+          </span>
+          <span
+            class="px-3 py-1 rounded-full bg-zinc-950/50 border border-zinc-800 text-xs font-medium text-zinc-300 shadow-sm"
+          >
+            React
+          </span>
+          <span
+            class="px-3 py-1 rounded-full bg-zinc-950/50 border border-zinc-800 text-xs font-medium text-zinc-300 shadow-sm"
+          >
+            Node.js
+          </span>
+          <span
+            class="px-3 py-1 rounded-full bg-zinc-950/50 border border-zinc-800 text-xs font-medium text-zinc-300 shadow-sm"
+          >
+            TypeScript
+          </span>
+          <span
+            class="px-3 py-1 rounded-full bg-zinc-950/50 border border-zinc-800 text-xs font-medium text-zinc-300 shadow-sm"
+          >
+            Python
+          </span>
+          <span
+            class="px-3 py-1 rounded-full bg-zinc-950/50 border border-zinc-800 text-xs font-medium text-zinc-300 shadow-sm"
+          >
+            GraphQL
+          </span>
+          <span
+            class="px-3 py-1 rounded-full bg-zinc-950/50 border border-zinc-800 text-xs font-medium text-zinc-300 shadow-sm"
+          >
+            PostgreSQL
+          </span>
+        </div>
+      </div>
+      <div
+        class="p-8 rounded-3xl border border-amber-500/20 bg-amber-500/10 hover:bg-zinc-900/40 transition-colors duration-300"
+        style="opacity: 0; filter: blur(10px); transform: scale(0.95);"
+      >
+        <h3
+          class="text-xl font-bold text-amber-400 mb-3"
+        >
+          Emerging Tech & AI
+        </h3>
+        <p
+          class="text-zinc-400 mb-8 leading-relaxed"
+        >
+          Harnessing the power of AI to accelerate innovation.
+        </p>
+        <div
+          class="flex flex-wrap gap-2"
+        >
+          <span
+            class="px-3 py-1 rounded-full bg-zinc-950/50 border border-zinc-800 text-xs font-medium text-zinc-300 shadow-sm"
+          >
+            OpenAI API
+          </span>
+          <span
+            class="px-3 py-1 rounded-full bg-zinc-950/50 border border-zinc-800 text-xs font-medium text-zinc-300 shadow-sm"
+          >
+            Claude
+          </span>
+          <span
+            class="px-3 py-1 rounded-full bg-zinc-950/50 border border-zinc-800 text-xs font-medium text-zinc-300 shadow-sm"
+          >
+            Gemini
+          </span>
+          <span
+            class="px-3 py-1 rounded-full bg-zinc-950/50 border border-zinc-800 text-xs font-medium text-zinc-300 shadow-sm"
+          >
+            PyTorch
+          </span>
+          <span
+            class="px-3 py-1 rounded-full bg-zinc-950/50 border border-zinc-800 text-xs font-medium text-zinc-300 shadow-sm"
+          >
+            MLOps
+          </span>
+          <span
+            class="px-3 py-1 rounded-full bg-zinc-950/50 border border-zinc-800 text-xs font-medium text-zinc-300 shadow-sm"
+          >
+            Prompt Engineering
+          </span>
+        </div>
+      </div>
+    </div>
+    <div
+      class="mt-12 text-center"
+    >
+      <p
+        class="text-zinc-500 text-sm italic"
+      >
+        + Expert proficiency in over 50+ additional tools, languages, and frameworks including Advanced Engineering (WebAssembly, C++), Testing (Cypress, Vitest), and Databases.
+      </p>
+    </div>
+  </section>
+</DocumentFragment>
+`;

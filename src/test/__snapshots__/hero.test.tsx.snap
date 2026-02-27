@@ -1,0 +1,95 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Hero matches snapshot 1`] = `
+<DocumentFragment>
+  <section
+    class="mb-24 max-w-4xl"
+  >
+    <h1
+      class="text-5xl font-bold tracking-tight text-white sm:text-7xl mb-8 leading-[1.1]"
+    >
+      Architecting at the intersection of 
+      <span
+        class="text-blue-500"
+      >
+        Design
+      </span>
+      , 
+      <span
+        class="text-emerald-500"
+      >
+        Engineering
+      </span>
+      , 
+      <span
+        class="text-sky-500"
+      >
+        Cloud
+      </span>
+      , and 
+      <span
+        class="text-amber-500"
+      >
+        AI.
+      </span>
+    </h1>
+    <p
+      class="mt-6 text-xl leading-8 text-zinc-400 max-w-2xl"
+    >
+      I bridge the gap between complex technical architecture and human-centric experience. As a Digital Experience Architect, I specialize in building scalable, high-performance systems powered by Cloud Infrastructure, Machine Learning, and Data Science.
+    </p>
+    <div
+      class="mt-10 flex flex-wrap gap-4"
+    >
+      <div
+        class="flex items-center gap-2 text-sm font-medium text-zinc-500 bg-zinc-900/50 px-4 py-2 rounded-full border border-zinc-800"
+      >
+        <span
+          class="w-2 h-2 rounded-full bg-blue-500 animate-pulse"
+        />
+        UI/UX Strategy
+      </div>
+      <div
+        class="flex items-center gap-2 text-sm font-medium text-zinc-500 bg-zinc-900/50 px-4 py-2 rounded-full border border-zinc-800"
+      >
+        <span
+          class="w-2 h-2 rounded-full bg-emerald-500 animate-pulse"
+        />
+        Full-Stack Engineering
+      </div>
+      <div
+        class="flex items-center gap-2 text-sm font-medium text-zinc-500 bg-zinc-900/50 px-4 py-2 rounded-full border border-zinc-800"
+      >
+        <span
+          class="w-2 h-2 rounded-full bg-sky-500 animate-pulse"
+        />
+        Cloud Architecture
+      </div>
+      <div
+        class="flex items-center gap-2 text-sm font-medium text-zinc-500 bg-zinc-900/50 px-4 py-2 rounded-full border border-zinc-800"
+      >
+        <span
+          class="w-2 h-2 rounded-full bg-amber-500 animate-pulse"
+        />
+        AI, ML & Data Science
+      </div>
+      <div
+        class="flex items-center gap-2 text-sm font-medium text-zinc-500 bg-zinc-900/50 px-4 py-2 rounded-full border border-zinc-800"
+      >
+        <span
+          class="w-2 h-2 rounded-full bg-purple-500 animate-pulse"
+        />
+        System Architecture
+      </div>
+      <div
+        class="flex items-center gap-2 text-sm font-medium text-zinc-500 bg-zinc-900/50 px-4 py-2 rounded-full border border-zinc-800"
+      >
+        <span
+          class="w-2 h-2 rounded-full bg-rose-500 animate-pulse"
+        />
+        DevOps & Platform
+      </div>
+    </div>
+  </section>
+</DocumentFragment>
+`;
