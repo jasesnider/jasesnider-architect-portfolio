@@ -7,6 +7,7 @@ const CustomCursor = () => {
 	const [mounted, setMounted] = useState(false);
 	const [isHovered, setIsHovered] = useState(false);
 	const [isVisible, setIsVisible] = useState(false);
+	const [isMobile, setIsMobile] = useState(false);
 
 	const mouseX = useMotionValue(0);
 	const mouseY = useMotionValue(0);
@@ -17,6 +18,13 @@ const CustomCursor = () => {
 
 	useEffect(() => {
 		setMounted(true);
+
+		const checkMobile = () => {
+			setIsMobile(window.innerWidth < 768 || 'ontouchstart' in window);
+		};
+
+		checkMobile();
+		window.addEventListener("resize", checkMobile);
 		
 		const moveMouse = (e: MouseEvent) => {
 			mouseX.set(e.clientX);
@@ -46,12 +54,13 @@ const CustomCursor = () => {
 		observer.observe(document.body, { childList: true, subtree: true });
 
 		return () => {
+			window.removeEventListener("resize", checkMobile);
 			window.removeEventListener("mousemove", moveMouse);
 			observer.disconnect();
 		};
 	}, [mouseX, mouseY, isVisible]);
 
-	if (!mounted) return null;
+	if (!mounted || isMobile) return null;
 
 	return (
 		<>

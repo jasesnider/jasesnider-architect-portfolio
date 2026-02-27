@@ -1,12 +1,19 @@
-@import "tailwindcss";
+@theme {
+	--background: #09090b;
+	--foreground: #fafafa;
+}
 
 html {
 	scroll-behavior: smooth;
-	cursor: none;
 }
 
-button, a, input, textarea {
-	cursor: none !important;
+@media (min-width: 768px) {
+	html {
+		cursor: none;
+	}
+	button, a, input, textarea {
+		cursor: none !important;
+	}
 }
 
 :root {
