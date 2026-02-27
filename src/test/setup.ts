@@ -1,4 +1,5 @@
 import "@testing-library/jest-dom";
+import { vi } from "vitest";
 
 // Polyfill IntersectionObserver for framer-motion whileInView
 class IntersectionObserverMock {
