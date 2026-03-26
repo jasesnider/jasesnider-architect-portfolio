@@ -28,7 +28,10 @@ WORKDIR /app
 
 ENV NODE_ENV production
 # Optionally disable Next.js telemetry
-# ENV NEXT_TELEMETRY_DISABLED 1
+ENV NEXT_TELEMETRY_DISABLED 1
+
+# Set memory limits for the build process
+ENV NODE_OPTIONS="--max-old-space-size=1024"
 
 # Create a non-root user for security
 RUN addgroup --system --gid 1001 nodejs
