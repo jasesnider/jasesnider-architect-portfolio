@@ -3,13 +3,10 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-      target: runner  # Points to your final production stage
+      target: runner # Points to your final production stage
     container_name: node_app
     ports:
       - "3000:3000"
     environment:
       - NODE_ENV=production
     restart: always
-    volumes:
-      - .:/app
-      - /app/node_modules # Prevents local node_modules from overriding the container's
